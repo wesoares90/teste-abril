@@ -6,6 +6,6 @@ Framework: Bootstrap.
 
 Linguagens: HTML5, CSS3, JQuery.
 
-Bibliotecas utilizadas: Sticky.js
+Bibliotecas utilizadas: JQuery, Sticky.js
 
 Pré-processador: SASS	
